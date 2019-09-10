@@ -1,0 +1,43 @@
+---
+authors:
+- admin
+bio: My research interests include distributed robotics, mobile computing and programmable
+  matter.
+education:
+  courses:
+  - course: PhD in Cellular and Molecular Medicine
+    institution: Cleveland State University 
+    year: 2020
+  - course: BS in Biotechnology
+    institution: Anna University, Madras, India
+    year: 2014
+email: "venkadv@ccf.org"
+interests:
+- Prostate cancer 
+- Androgen receptor signalling 
+- Epigenetics
+name: Varadha Balaji Venkadakrishnan
+organizations:
+- name: Lerner Research Institute
+  url: ""
+role: Graduate Student
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Bajji
+- icon: google-scholar
+  icon_pack: ai
+  link: https://https://scholar.google.com/citations?user=iyYQPv4AAAAJ&hl
+- icon: github
+  icon_pack: fab
+  link: https://github.com/bajji1993
+superuser: false
+user_groups:
+- Researchers
+- Visitors
+---
+
+Balaji is a PhD candidate enrolled in the Regulatory Biology program with a specialization in Cellular and Molecular Medicine. He is completing his dissertation research in the laboratory of Dr. Hannelore Heemers at the Department of Cancer Biology, Lerner Research Institute, Cleveland Clinic. 
